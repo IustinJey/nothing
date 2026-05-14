@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 172" fill="none">
+  <!-- Flat-top regular hexagon, open at top-right edge (matches Founders Hive brand) -->
+  <path d="M 148 86 L 111 150 L 37 150 L 0 86 L 37 22 L 111 22"
+        stroke="#F5C230" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="174" y="77"
+        font-family="'Arial Black','Franklin Gothic Heavy',Arial,sans-serif"
+        font-weight="900" font-size="72" fill="#0B0B0F">founders</text>
+  <text x="174" y="158"
+        font-family="'Arial Black','Franklin Gothic Heavy',Arial,sans-serif"
+        font-weight="900" font-size="72" fill="#0B0B0F">hive</text>
+</svg>
